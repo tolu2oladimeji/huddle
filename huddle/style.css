@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+    cursor: zoom-out;
+    /*background-color: white;*/
+    margin: 20px;
+    
+}
+.hearder_part{
+    display: flex;
+    background-color: aquamarine;
+    padding: 40%;
+    border-bottom: 60%;
+
+}
+.Button1{
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+
+}
+button{
+    padding: 20px;
+    gap:5px;
+    border-radius: 10px;
+    width: 100%;
+    background-color:rgb(36, 78, 36);
+    color: white;
+}
+img{
+    width:500;
+    height:600;
+}
